@@ -251,3 +251,24 @@ ul {
 .slick-slide img {
   width: 215px;
 }
+
+.poster-slide
+{
+  background: url('../img/hollywood/poster-bg-6.jpg');
+  background-size: inherit;
+  background-repeat: no-repeat !important;
+  background-position: left;
+}
+
+.poster-slide .demo
+{
+  background-color: rgba(255,255,255,0.8);  
+}
+
+.footer
+{
+  background: #1f0100;
+  padding: 10px 0px 0px 0px;
+  color:#fff;
+  font-size: 12px;
+}
